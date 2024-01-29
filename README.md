@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @kyawe225
+- 👀 I’m interested in software development 
+- 🌱 I’m currently learning c# aspnet core , javascript frameworks and flutter for ui.
+- 💞️ I’m looking to collaborate on open source projects.
+- 📫 How to reach me through kyawzinhtet200116@gmail.com and https://www.linkedin.com/in/kyaw-zin-htet-153610178/
+- 😄 Pronouns: His/Him
+- ⚡ Fun fact: I good guy 
